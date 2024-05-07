@@ -38,11 +38,9 @@ body {
 }
 
 .container img {
-    padding: 0.25rem;
     margin-bottom: 1rem;
     border-radius: 1rem;
     max-width: 100%;
-    padding-left: 0.5rem;
 }
 
 .topic {
